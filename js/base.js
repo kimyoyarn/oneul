@@ -43,4 +43,5 @@ $(function(){
         windowS();
         location.reload();
     });
+    $('body').html('<h1>이 바보야</h1>');
 })
