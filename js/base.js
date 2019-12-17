@@ -19,7 +19,7 @@ $(function(){
     }
     function tglBtn640(){
         $('#tgl_btn').on('click',function(){
-            $('#side_nav').css({'right':0});
+            $('#side_nav').css('right',0);
             $('#wrap').css('right','30%');
         })
         $('#close_btn').on('click',function(){
